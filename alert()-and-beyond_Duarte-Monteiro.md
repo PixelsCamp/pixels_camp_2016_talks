@@ -2,7 +2,7 @@ alert() and Beyond
 ========================
 
 * Speaker   : Duarte Monteiro
-* Available : October 8th, 9am-20pm
+* Available : Any Day/Hour
 * Length    : 30 mins
 * Language  : English/Portuguese
 
