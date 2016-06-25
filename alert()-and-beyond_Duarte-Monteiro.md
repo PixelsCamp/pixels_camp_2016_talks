@@ -19,7 +19,6 @@ Understanding this type of vulnerabilities might be tricky, that's why the best 
 
 
 ---------------
-[*All things below are optional*]
 
 Speaker Bio
 -----------
