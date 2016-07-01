@@ -4,7 +4,7 @@ Debugging Serverless Architectures
 * Speaker   : Tom Gallacher
 * Available : All day, every day
 * Length    : 30 mins
-* Language  : *English
+* Language  : English
 
 Description
 -----------
