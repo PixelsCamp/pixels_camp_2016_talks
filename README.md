@@ -1,7 +1,7 @@
-[![Pixels love GitHub](http://pixels.camp/img/pixels_camp_loves_github.svg)](http://pixels.camp)
+[![Pixels love GitHub](https://pixels.camp/img/pixels_camp_loves_github.svg)](https://pixels.camp)
 
 
-# [Pixels Camp 2016](http://pixels.camp) Call for Talks
+# [Pixels Camp 2016](https://pixels.camp) Call for Talks
 
 
 ## How to submit a talk
@@ -10,10 +10,11 @@ Talks proposals are handled through GitHub pull requests. Follow the instruction
 
 * Log in to **GitHub** or create an account.
 * **Fork this repository**.
-* Duplicate the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/pixels_camp_talks_2016/blob/master/my-awesome-talk_my-name.md) file and rename it after your talk title and your name.  
+* **Duplicate** the [my-awesome-talk_my-name.md](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/my-awesome-talk_my-name.md) file first and rename the **new file** after your talk title and your name.  
 (ex: pixels-camp-is-going-to-be-legen-dary_celso-martinho.md)
-* Edit the file and fill in each section.
-* When you're ready, **submit a pull request** and comment using your markdown file contents.
+* Edit the **new file** and fill in each section.
+* **Do not delete the template file.**
+* When you're ready, **submit a pull request** and **comment** using your markdown file contents.
 * Anyone can comment your pull request. If your talk is accepted we will merge it.
 * Deadline for submitting talks is **July 31st**. After than we won't be accepting more pull requests.
 * We will respond to everyone who submits a proposal even if it's not accepted.
@@ -51,5 +52,6 @@ Relevance is tricky as it doesn’t necessarily translate to geeky or codable. S
 
 Is it old news? Has it been heavily discussed in the past? Sometimes good talks get rejected because they get old. Try to awe the attendees with some fresh insights!
 
-
-Thanks, the PixelsCamp Crew
+<br>
+<br>
+Thanks, the Pixels Camp crew
