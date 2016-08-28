@@ -1,10 +1,10 @@
 The Innovation Formula
 ========================
 
-* Speaker   : *Rafael Ribeiro*
-* Available : *October 6th, 7th, 8th* 
-* Length    : *30 min (20 min presentation / 10 min Q/A)*
-* Language  : *English*
+* Speaker   : Rafael Ribeiro
+* Available : October 6th, 7th, 8th
+* Length    : 30 min (20 min presentation / 10 min Q/A)
+* Language  : English
 
 Description
 -----------
@@ -16,7 +16,6 @@ Innovation is not only about technology anymore. In fact, it never was. Innovati
 right technology, old or new, to the right problem, at the right time, to the right people.
 
 In this talk, we will try to unveil one of the many formulas for innovation, a human (people) centered one. 
----------------
 
 Speaker Bio
 -----------
