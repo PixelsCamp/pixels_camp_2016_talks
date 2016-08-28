@@ -21,11 +21,14 @@ In this talk, we will try to unveil one of the many formulas for innovation, a h
 Speaker Bio
 -----------
 
-I am awesome! [But elaborate why]
+Surfer by passion and Software Architecture by professional experience. After 12 years at the IT world I pretty much felt like a 
+machine, so I decided to quit my own company and learn about Psychology and Education with Expressive Arts (Wait... what???). 
 
-Links
+Currently I'm an Innovation Facilitator at Celfinet, creating the bridge between Software Developers, Telecomm Engeneers and the
+Creative Process. I'm also the Co-Founder of the Creativity Gym, a place where anyone can unleash and develop their creative potential.
+
 -----
 
-* Blog: http://whereiwrite.com
-* Company: http://whereiwork.com
-* Github: http://github.com/my-github-username
+* Blog: http://www.creativity.pt
+* Company: http://www.celfinet.com
+* Github: http://github.com/fhenus
