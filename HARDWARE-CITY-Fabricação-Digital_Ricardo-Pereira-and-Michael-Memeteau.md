@@ -1,4 +1,4 @@
-[Talk HARDWARE CITY | Fabricação Digital]
+Talk HARDWARE CITY | Fabricação Digital
 ========================
 
 * Speaker   : *Ricardo Pereira* and *Michael Memeteau*
@@ -30,3 +30,5 @@ Links
 -----
 
 * web-site: http://hardwarecity.org
+* fb: https://fb.com/hardwarecity.org
+
