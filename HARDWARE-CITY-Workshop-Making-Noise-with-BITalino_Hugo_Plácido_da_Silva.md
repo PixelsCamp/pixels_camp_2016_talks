@@ -29,6 +29,7 @@ Install OpenSignals: http://bitalino.com/index.php/software
 Speaker Bio
 -----------
 
+[![Hugo Plácido da Silva](https://github.com/ruimartinsptl/talks/raw/master/img/Hugo_Silva.jpeg)](#)
 Hugo believes he’s one of the few lucky people that can say he worked very few days in his life... not because of a lack of a job (fortunately), but because when you do stuff you love and you're passionate about almost every single day, there's no boundary between what's work and what's just pure fun.
 
 He received his PhD in Electrical and Computers Engineering from the Univeristy of Lisbon. Since 2004, Hugo has been working as a researcher at the IT - Instituto de Telecomunicações (http://www.it.pt/person_detail_p.asp?id=1293). Hugo is also one of the co-founders of PLUX – Wireless Biosignals (http://www.plux.info), established in 2007 as an innovative technology-based company operating in the field of medical devices for healthcare and quality of life, where he is currently a Board Member and Innovation Advisor.  
@@ -41,7 +42,13 @@ His main interest areas include physiological computing (aka biosignals), system
 Links
 -----
 
-* web-site: http://bitalino.com
-* web-site: http://hardwarecity.org
-* fb: https://fb.com/hardwarecity.org
+* www: [http://bitalino.com][4]
+* www: [http://hardwarecity.org][1]
+* fb: [https://fb.com/hardwarecity.org][2]
 
+Click [here][3] to see the full calendar and pick your favorite talks
+
+[1]: http://hardwarecity.org
+[2]: https://fb.com/hardwarecity.org
+[3]: https://pixels.camp/schedule
+[4]: http://bitalino.com
