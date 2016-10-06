@@ -2,8 +2,8 @@ Workshop HARDWARE CITY | Workshop Clone your own Finger
 ========================
 
 * Speaker   : *Ricardo Pereira*
-* Available : *October 6th, 8pm* 
-* Length    : *40 mins*
+* Available : *October 6-8, (Pay attention every 3 hours, the megaphone will ring. Go to the Hardware City boot and you can clone your own finger)* 
+* Length    : *20 mins*
 * Language  : *Portuguese*
 
 Description
@@ -23,6 +23,11 @@ Ricardo Pereira born in 1982 in Porto, Ricardo graduated in Industrial Design in
 Links
 -----
 
-* web-site: http://hardwarecity.org
-* fb: https://fb.com/hardwarecity.org
+* www: [http://hardwarecity.org][1]
+* fb: [https://fb.com/hardwarecity.org][2]
 
+Click [here][3] to see the full calendar and pick your favorite talks
+
+[1]: http://hardwarecity.org
+[2]: https://fb.com/hardwarecity.org
+[3]: https://pixels.camp/schedule/
