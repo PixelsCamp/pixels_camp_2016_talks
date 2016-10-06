@@ -2,7 +2,7 @@ Workshop HARDWARE CITY | Making Noise with BITalino
 ========================
 
 * Speaker   : *Hugo Plácido da Silva*
-* Available : *October 6th, ~~14:00-15:30~~ (morning)* 
+* Available : *October 6th, 14:00-15:30* 
 * Length    : *90 mins*
 * Language  : *English or Portuguese (depends on the attendance)*
 

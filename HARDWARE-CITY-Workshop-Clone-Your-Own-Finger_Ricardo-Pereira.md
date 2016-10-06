@@ -2,8 +2,8 @@ Workshop HARDWARE CITY | Workshop Clone your own Finger
 ========================
 
 * Speaker   : *Ricardo Pereira*
-* Available : *October 6th and 7th (3 times a day)* 
-* Length    : *30 mins*
+* Available : *October 6th, 8pm* 
+* Length    : *40 mins*
 * Language  : *Portuguese*
 
 Description
