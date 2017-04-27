@@ -1,0 +1,4 @@
+The majority of developers hear about functional JavaScript and how it can help their code, but have no idea how to get started. Functional is great, but there are some core concepts hard to visualize such as functional sequences, transformers and transducers.
+This talk aims at introducing functional programming in JavaScript with real life examples whose logic is "simple" to visualise. We will use functions as logic steps and apply them to 'filters', 'map' and 'reduce'. You will discover how to use Functional programming to make your code easier to read and test. 
+
+It's this talk: https://www.youtube.com/watch?v=69PWCPUAXEo&list=PLtpYUxU1pCL_jOCbzoxqBO7zCHveQ7dFB&index=4
