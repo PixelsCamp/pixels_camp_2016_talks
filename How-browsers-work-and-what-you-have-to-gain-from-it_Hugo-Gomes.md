@@ -11,9 +11,16 @@ Description
 
 Browsers are complex beasts.
 
-In this talk I will walk through their theoretical architecture and how things work bellow the DOM.
+In this talk we are going to take a look at the browsers Layout engine (mostly blink and a bit of gecko) and their JavaScript engine (mostly V8)
 
-I will introduce some common quircks and how to solve them with careful planning that is appropriate to the browsers pulse and design.
+We will start by looking at the Browser Architecture and proceed into its threads:
+
+- The IO Thread
+- The main thread
+- The render thread
+- other threads
+
+Then we will take a look at the common architecture of a JS engine and how your code can benefit from it.
 
 Hopefully after this talk you will be able to produce code that does not step into the browser toes.
 
