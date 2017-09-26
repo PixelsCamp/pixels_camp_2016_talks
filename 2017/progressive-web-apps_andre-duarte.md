@@ -1,7 +1,7 @@
 Progressive Web Apps
 ========================
 
-* Speaker   : [André Duarte](https://pixels.camp/onemanclapping)
+* Speaker   : [André Duarte](https://pixels.camp/onemanclapping) [Renato Cardoso](https://pixels.camp/renatocardoso17)
 * Length    : 30 mins. (+30min practical exercise)
 * Language  : English
 
@@ -12,7 +12,7 @@ This is a presentation about the concept of Progressive Web Apps. Native code ha
 
 That is the idea behind Progressive Web Apps: a set of guidelines for both application developers and browser developers so that the web can fill the gaps that still make the native experience better for the user. This won't be an extensive overview of all the guidelines but a set of my personal favourites.
 
-Since 30 minutes is not enough to offer live coding, I want this presentation to be followed by a small practical exercise (the presentation setup is not ideal for this, so we'll just find a table) where we will take a standard web app and make it progressive in less than 30 minutes.
+Since 30 minutes is not enough to offer live coding, I want this presentation to be followed by a small practical exercise where we will take a standard web app and make it progressive in less than 30 minutes.
 
 Speaker Bio
 -----------
@@ -23,12 +23,18 @@ Speaker Bio
 
 André is a software engineer. He loves the web. He prefers the browser. Currently working at Betfair, for the past years he has been part of a team of amazing engineers, also known as blippers (blip.pt), who are trying to build some amazing web apps.
 
+**Renato Cardoso**
+
+![Speaker Image](https://avatars2.githubusercontent.com/u/20254061?v=4s=460)
+
+Renato is a software engineer. He is currently working at Paddy Power Betfair @ BLIP in Porto. He is part of a fantastic team of Javascript ninjas (blippers) developing some awesome web apps.
+
 Links
 -----
 
 * Blog: https://andreduarte.info
 * Company: https://blip.pt
-* Github: https://github.com/onemanclapping
+* Github: https://github.com/onemanclapping https://github.com/renatocardoso17
 
 Click [here][1] to see the full calendar and pick your favorite talks
 
