@@ -1,4 +1,4 @@
-Embedded software/firmware for chinese ebikes motor controllers and displays
+Embedded software/firmware for Chinese ebikes motor controllers and displays
 =========================
 
 * Speaker   : Jorge Pinto
