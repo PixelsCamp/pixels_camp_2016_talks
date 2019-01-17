@@ -9,16 +9,15 @@ _How to "start" a strong community in Portugal?_ }}
 Description
 -----------
 
-Hi people, the propose of the talk is to show the difficulties to start a new test community in Lisbon, what kind of challenges, workspaces, partnership, etc. and do it for free every month the shared knowledge. 
-How to change the companies mindset? Is easier =)
+Hi people, 
+the purpose of the talk is to share the difficulties to start a new test community in Lisbon, what kind of challenges, workspaces, partnerships, etc. and do it for free every month for the sakes of sharing knowledge.
 
 How to encourage professionals to submit talks?
 
-How to do marketing? 
+How to do the marketing and spread the word to make it known?
 
-Then, how to create new initiatives to promote the better test community in Europe? 
-
-All it´s FREE! It´s possible!
+Lastly, how to develop new initiatives to promote the best test community in Europe?
+You can do it for FREE! It´s possible!
 
 Speaker Bio
 -----------
