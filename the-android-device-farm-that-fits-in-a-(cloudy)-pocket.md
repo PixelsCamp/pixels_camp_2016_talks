@@ -72,9 +72,6 @@ You will find previous [slides] of my talks and twitter references [there].
 [slides]:https://speakerdeck.com/gounthar
 [talk]: https://twitter.com/i/moments/1014591620841340929
 [Techforum eXplore]: https://twitter.com/hashtag/TexWL18?src=hash
-[OpenSTF]: https://github.com/openstf/stf
-
-[DevFestGR18]:https://heraklion.googledevelopers.gr/devfest-greece-2018/
 [company]: https://worldline.com/
 [medium]: https://medium.com/@poddingue
 [Worldline Tech]: https://blog.worldline.tech/
@@ -93,10 +90,6 @@ This talk exists in two versions:
 [talk]: https://twitter.com/i/moments/1014591620841340929
 [Techforum eXplore]: https://twitter.com/hashtag/TexWL18?src=hash
 [OpenSTF]: https://github.com/openstf/stf
-[gitlab-ci]:https://about.gitlab.com/product/continuous-integration/
-[Runners]:https://docs.gitlab.com/runner/
 [Docker]: https://www.docker.com/
-[OpenSTF]: https://github.com/openstf/stf
 [HypriotOS]: https://blog.hypriot.com/
 [Armbian]: https://www.armbian.com/download/
-[Gitlab CI]: https://about.gitlab.com/features/gitlab-ci-cd/
