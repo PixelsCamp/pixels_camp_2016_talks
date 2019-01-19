@@ -29,5 +29,5 @@ Extra Information
 -----------------
 
 I've given talks about accessibility at [Google DevFest Coimbra 2018](https://devfest.gdgcoimbra.xyz/) and 
-[The Zain Talks](https://www.meetup.com/zain-talks/). You can take a look at [my slides here](https://slides.com/anarafaelaferro/demystifying-accessbility/), 
+[The Zain Talks](https://www.meetup.com/zain-talks/). My previous slides are available [here](https://slides.com/anarafaelaferro/demystifying-accessbility/), 
 although I intend to focus more on the practical demos.
