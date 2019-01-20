@@ -1,34 +1,23 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-
-`--8<-- DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
-{{ _Your Talk's Title_ }}
+vue-cli custom plugins
 =========================
 
-* Speaker   : {{ **Your Name** (eg. John Doe) }}
-* Available : {{ **Your Availability** (eg. first day, 9am-7pm) }}
-* Length    : {{ **Talk Length** (30 minutes, 60 minutes, or workshop) }}
-* Language  : {{ **Talk Language** (English or Portuguese) }}
+* Speaker   : Jorge Costa da Silva
+* Available : Second and third days, any time
+* Length    : 30 minutes
+* Language  : English
 
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+Thw new version of the vue-cli is one of the best news in the Vue ecosystem of the last few months! In this talk we will cover the main features of vue-cli, namely custom plugins, one of the most exciting ones. The plugin system is at the core of vue-cli and with custom plugins we take full control of the development experience.
 
 Speaker Bio
 -----------
 
-{{ **Briefly Describe Yourself Here** }}
+Founder and CEO of Openbox Software. Writer of Vue Handbook (https://leanpub.com/manual-vuejs). Co-organizer of Vue.js Lisbon Meetup. 
 
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
-
-Extra Information
------------------
-
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+* Company: https://openbox.pt
+* GitHub: https://github.com/jcostasilva
