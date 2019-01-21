@@ -1,5 +1,5 @@
 
-🍊 ARM your continuous integration system with fruits! 🍌
+ARM your continuous integration system with fruits!
 =========================
 
 * Speaker   : Bruno Verachten
