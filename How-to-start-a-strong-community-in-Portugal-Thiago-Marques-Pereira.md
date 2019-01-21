@@ -1,4 +1,4 @@
-_How to "start" a strong community in Portugal?_ }}
+How to "start" a strong community in Portugal?
 =========================
 
 * Speaker   : Thiago Marques Pereira (Biro Biro)
