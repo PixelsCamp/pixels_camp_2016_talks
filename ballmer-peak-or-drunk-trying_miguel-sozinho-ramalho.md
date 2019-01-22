@@ -12,7 +12,7 @@ Ballmer Peak is the theory that computer programmers obtain quasi-magical, super
 
 I propose a group experiment in which participants will be performing programming tasks while their blood alcohol concentration is scientifically increased with beer.
 The goal is to help each participant reach their Ballmer peak, both for validating the theory and for personal gain of each one. 
-This is not to scientific as there won't be a control group, but neither is that the endgame here!
+This is not too scientific as there won't be a control group, but neither is that the endgame here!
 The amount of alcohol ingested will be small and only enough to trigger the effect, 2 to 4 beers should suffice.
 
 The discovery of this effect is attributed to Steve Ballmer, CEO of Microsoft (2000-2014).
