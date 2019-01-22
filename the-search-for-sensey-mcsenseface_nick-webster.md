@@ -4,7 +4,7 @@ The Search for Sensey McSenseface
 
 * Speaker   : Nick Webster
 * Available : First day, all
-* Length    : 30 minutes
+* Length    : 60 minutes
 * Language  : English
 
 Description
