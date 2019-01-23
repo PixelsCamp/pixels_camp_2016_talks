@@ -9,12 +9,15 @@ Writing Code That Writes a Book
 Description
 -----------
 
-In 2018 I participated on my first NanoGenMo which is an event where programmers write code that writes a book during the month of November.
+In 2018 I participated on my first [NanoGenMo](https://github.com/NaNoGenMo/2018) which is an event where programmers write
+code that writes a book during the month of November.
 
-I will talk about how I did my projects, both the good, the bad and the ugly.
+This talk will be all about generative art, more specifically about generating text with code, I will teach you how to make you own,
+best practices, how other people did it, and how to prepare yourself for next year's NanoGenMo.
 
-I will teach you how to make you own, best practices, how other people did it, and how to prepare yourself for next year's NanoGenMo.
+There will be live coding where I will build a book with 50,000 words on stage.
 
+I will be using Python for examples, but the talk will be language agnostic.
 
 Speaker Bio
 -----------
