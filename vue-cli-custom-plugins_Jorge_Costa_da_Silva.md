@@ -3,7 +3,7 @@ vue-cli custom plugins
 
 * Speaker   : Jorge Costa da Silva
 * Available : Second and third days, any time
-* Length    : 30 minutes
+* Length    : 60 minutes
 * Language  : English
 
 Description
