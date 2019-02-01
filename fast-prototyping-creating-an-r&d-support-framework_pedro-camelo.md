@@ -1,4 +1,4 @@
-{{ Fast Prototyping - Creating an R&D support framework }}
+Fast Prototyping - Creating an R&D support framework
 =========================
 
 * Speaker   : Pedro Camelo
