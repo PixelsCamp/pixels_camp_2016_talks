@@ -3,7 +3,7 @@ Fast Prototyping - Creating an R&D support framework
 
 * Speaker   : Pedro Camelo
 * Available : All Days, 2pm-7pm
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
