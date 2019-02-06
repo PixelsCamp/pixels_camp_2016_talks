@@ -1,4 +1,4 @@
-Demystifying Accessibility
+Demystifying Accessibility: How to integrate an empathy-driven process in software teams.
 =========================
 
 * Speaker   : Rafaela Ferro
