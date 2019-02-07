@@ -16,7 +16,9 @@ This talk will cover the experience I've gained over my 5 years at Bitsight doin
 Speaker Bio
 -----------
 
-I am a Security Data Researcher and Architect at BitSight Technologies. Have a MsC in Computer Science and have been building systems to better protect those who are infected by malware. Have been a recurrent participant in Pixels Camp and this year I want to give something back to this great conference.
+I am a Security Data Researcher and Architect at BitSight Technologies. Have a MSc in Computer Engineering and have been building systems to better protect those who are infected by malware. Have been a recurrent participant in Pixels Camp and this year I want to give something back to this great conference.
+
+I've presented at Botconf 2014 where [I spoke](https://www.youtube.com/watch?v=XpSHHbktoFY) about my thesis results, a machine learning classifier to detect malicious domain names and a graph based approach to detect botnets.
 
 Links
 -----
