@@ -1,5 +1,5 @@
-testing-library
-===============
+Testing the Frontend with testing-library
+=========================================
 
 * Speaker   : Luís Rodrigues
 * Available : Any
