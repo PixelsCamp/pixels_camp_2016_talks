@@ -1,38 +1,41 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
-* When you submit your proposal, paste the contents of this file as the Pull Request's description.
-* Don't delete or rename this file, copy it.
-
-`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
-{{ _Your Talk's Title_ (which should be short) }}
+Microinteractions: Little Things That Matter
 =================================================
 
-* Speaker   : {{ **Your Name** (eg. John Doe) }}
-* Available : {{ **Your Availability** (first day, second day, third day) }}
-* Length    : {{ **Talk Length** (in 30 minute increments — only workshops can be longer than 60 minutes) }}
-* Language  : {{ **Talk Language** (English or Portuguese, whatever you're more comfortable with) }}
+* Speaker   : Yonatan Doron
+* Available : all days
+* Length    : 30 minutes
+* Language  : English
 
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice, more is probably too much. }}
+Microinteractions are those little moments where design and code work together at their best. When used with care, they can even become signature moments, the way clapping for an article on Medium expresses the brand’s identity in a way that goes beyond any language or culture. In this talk, I’ll introduce the microinteraction at the abstract level, reveal its building blocks and show some concrete ways to understand and use them to create memorable, compelling interfaces.
 
 Speaker Bio
 -----------
 
-{{ **Briefly Describe Yourself Here** to your potential audience. Try to be concise. }}
+Yonatan Doron is a Frontend Tech Lead at CyberX with a passion for user-centric frontend development and modular client architecture. Yonatan contributes content to various technology-focused outlets, writing thought leadership articles on software, frontend, and product design. In his spare time, he leads Hodash dev, one of the biggest developers Meetup communities in Israel and creates open-source projects.
 
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
-* Photo: {{ https://example.com/me.jpg }} — a picture of yourself for the speakers page }}
+* Blog: https://medium.com/@yonatandoron
+* Company: https://cyberx-labs.com/
+* GitHub: https://github.com/JonathanDn
+* Photo: https://bit.ly/2ZQP905
 
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+Microinteractions are my hobby. As a Frontend tech lead I love finding interesting microineractions, reverse-engineer them. Read and research the field as well as write and talk about them and their importance to create outstanding user experiences. I further aspire to empower Frontend developers to become more aware of microinteractions and help them step up to implement and sometimes even design microinteractions in the products they build from day to day.
+
+References:
+
+I recently gave this talk at Code.Talks 2019 in Hamburg :
+[https://www.youtube.com/watch?v=NJk-2nz8u1Q](https://www.youtube.com/watch?v=NJk-2nz8u1Q)
+
+I also gave a short lightning talk version of this talk at ConfrontJS 2019 in Warsaw:
+[https://2019.confrontjs.com/speakers](https://2019.confrontjs.com/speakers)
+
+I further write on this topic:
+[https://uxdesign.cc/microinteractions-101-essential-tips-for-powerful-microinteractions-f1f52089a801](https://uxdesign.cc/microinteractions-101-essential-tips-for-powerful-microinteractions-f1f52089a801)
