@@ -1,29 +1,42 @@
-{{ Taming giants, one test at a time }}
+Taming giants, one test at a time
 =========================
 
-* Speaker   : {{ **Luís Correia** }}
-* Available : {{ **whenever** }}
-* Length    : {{ **45 minutes** }}
-* Language  : {{ **English** }}
+* Speaker   : Luis Correia
+* Available : whenever you need it to be
+* Length    : 45(ish) minutes
+* Language  : English (probably)
 
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice. }}
+Did you ever wonder how services are tested inside public administration?
+
+The vast majority is tested manually but this talk is all about a growing effort to automate most tests, while fighting our way through all kinds of blockers.
+
+Come to this talk to learn how we are testing some parts of Social Security transactional portal.
+
 
 Speaker Bio
 -----------
 
-{{ **Briefly Describe Yourself Here** }}
+![Speaker Image](https://avatars3.githubusercontent.com/u/191885?v=3&s=400)
+
+Legendary bicopter/tricopter builder, member of the fine One Over Zero community, mostly known as the "lobster crew"
+Co-creator of OOZLabs, a closed maker group that essentially makes things and stuff.
 
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* Blog: https://blog.loide.net
+* Company: https://labs.oneoverzero.org
+* Github: https://github.com/oozlabs / https://github.com/luisfcorreia
+* Contact: buga@loide.net
 
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+I usually prepare talks about things I've make (or tried to make it work), this time this is about real life work.
+
+Past talks @ PixelsCamp 
+https://github.com/PixelsCamp/talks/blob/master/2019/right-to-repair_luis-correia.md
+https://github.com/PixelsCamp/talks/blob/master/2016/ooz2mars-rover_luis-correia.md
