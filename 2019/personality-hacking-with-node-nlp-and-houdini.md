@@ -62,4 +62,4 @@ They haven't posted the videos from that conference yet.
 
 I'm currently working on a new analysis of the Beatles lyrics with NLP and exploring more with Houdini.
 
-My session shows how to build with Houdini and looks at the power of NLP using IBM Watson APIs ( which can be used for free in limited ways ). My session also considers web and data literacy as a medium for self expression and understanding. It is a thought provoking and relatable session :)
+My session shows how to build with Houdini and looks at the power of NLP using IBM Watson APIs ( which can be used for free in limited ways ). My session also considers web and data literacy as a medium for self expression and understanding. It is a thought provoking and relatable session.
