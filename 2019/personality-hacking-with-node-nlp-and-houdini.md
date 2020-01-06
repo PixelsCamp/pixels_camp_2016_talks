@@ -9,7 +9,7 @@ Personality Hacking with Node, NLP and Houdini
 Description
 -----------
 
-In this session we use JavaScript on the server, and in the browser to visualize personality changes of musical artists during their career, through their lyrics.
+In this session we use JavaScript on the server, and in the browser to beautifully visualize personality changes of musical artists during their career, through their lyrics.
 
 On the server we use Node to interface with Natural Language Processing APIs. On the client we use WebAudio to explore the dimensions of sound, and experiment with Houdini to play with visualizations.
 
@@ -22,7 +22,7 @@ Speaker Bio
 
 ![Anton McConville](https://raw.githubusercontent.com/mcconville/mcconville.github.io/master/images/antonmc.png)
 
-Anton is a digital designer and developer with a passion for building beautiful, data inspired mobile apps made with iOS or HTML.
+Anton is a digital designer and developer with a passion for building thoughtful, data inspired mobile apps made with iOS or HTML.
 
 He is a graduate engineer, with art school training in illustration, and experience leading both UX design, and development teams for projects in telecoms, finance and retail.
 
