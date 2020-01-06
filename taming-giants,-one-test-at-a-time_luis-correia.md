@@ -9,11 +9,13 @@ Taming giants, one test at a time
 Description
 -----------
 
-Did you ever wonder how services are tested inside public administration?
+Did you ever wonder how public facing services are tested?
+
+Did you know that public administration is doing it?
 
 The vast majority is tested manually but this talk is all about a growing effort to automate most tests, while fighting our way through all kinds of blockers.
 
-Come to this talk to learn how we are testing some parts of Social Security transactional portal.
+Come to this talk to learn how we are testing some parts of Social Security's transactional portal.
 
 
 Speaker Bio
