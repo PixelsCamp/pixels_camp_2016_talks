@@ -37,7 +37,7 @@ Links
 Extra Information
 -----------------
 
-I usually prepare talks about things I've make (or tried to make it work), this time this is about real life work.
+I usually prepare talks about things I've made (or tried to make them work) but this time it's about real life work.
 
 Past talks @ PixelsCamp 
 https://github.com/PixelsCamp/talks/blob/master/2019/right-to-repair_luis-correia.md
