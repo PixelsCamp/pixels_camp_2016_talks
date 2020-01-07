@@ -11,9 +11,9 @@ Description
 
 In this session we use JavaScript on the server, and in the browser to beautifully visualize personality changes of musical artists during their career, through their lyrics.
 
-On the server we use Node to interface with Natural Language Processing APIs. On the client we use WebAudio to explore the dimensions of sound, and experiment with Houdini to play with visualizations.
+On the server we use Node to interface with Natural Language Processing APIs. On the client we use WebAudio to explore the dimensions of sound, and experiment with emerging CSS Houdini APIs to play with visualizations.
 
-The session steps through the open source code, analyzes the outcomes, and considers real world applications for the concepts.
+The session steps through the open source project code, analyzes the outcomes, and considers real world applications for the concepts.
 
 Speaker Bio
 -----------
