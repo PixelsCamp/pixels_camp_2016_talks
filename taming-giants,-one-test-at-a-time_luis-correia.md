@@ -15,7 +15,7 @@ Did you know that public administration is doing it?
 
 The vast majority is tested manually but this talk is all about a growing effort to automate most tests, while fighting our way through all kinds of blockers.
 
-Come to this talk to learn how we are testing some parts of Social Security's transactional portal.
+Come to this talk to learn how we are testing some parts of Portuguese Social Security transactional portal.
 
 
 Speaker Bio
