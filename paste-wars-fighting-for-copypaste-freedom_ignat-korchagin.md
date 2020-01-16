@@ -3,7 +3,7 @@ Paste Wars: fighting for copypaste freedom
 
 * Speaker   : **Ignat Korchagin**
 * Available : **any day**
-* Length    : **30 minutes**
+* Length    : **60 minutes**
 * Language  : **English**
 
 Description
