@@ -3,7 +3,7 @@ Speeding up Linux disk encryption
 
 * Speaker   : **Ignat Korchagin**
 * Available : **any day**
-* Length    : **30 minutes**
+* Length    : **60 minutes**
 * Language  : **English**
 
 Description
