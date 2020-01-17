@@ -3,7 +3,7 @@ Leveling Up Your Team - Detect and Manage the Impostor Syndrome and the Dunning-
 
 * Speaker   : Ricardo Castelhano
 * Available : first day, second day, third day
-* Length    : 30 minutes
+* Length    : 45 minutes + QA
 * Language  : Portuguese (might be in English if by attendees request
 
 Description
