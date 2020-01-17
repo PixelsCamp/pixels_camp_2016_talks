@@ -3,7 +3,7 @@ Microinteractions: Little Things That Matter
 
 * Speaker   : Yonatan Doron
 * Available : all days
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
