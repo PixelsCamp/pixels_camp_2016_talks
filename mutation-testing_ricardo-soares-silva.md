@@ -19,11 +19,13 @@ Join us to learn how to create and kill some mutants.
 
 Speaker Bio
 -----------
+
 <div>
 <img align="right" width="125" height="125" src="https://raw.githubusercontent.com/PixelsCamp/talks/master/img/ricardo_soares.jpg">
 
 Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
 </div>
+
 Links
 -----
 
