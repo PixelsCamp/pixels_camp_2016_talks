@@ -4,7 +4,7 @@ Architecture and Organization
 
 * Speaker   : Kevin Goldsmith
 * Available : second day, third day
-* Length    : 30
+* Length    : 45
 * Language  : English
 
 Description
