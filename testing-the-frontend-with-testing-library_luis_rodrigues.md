@@ -3,7 +3,7 @@ Testing the Frontend with testing-library
 
 * Speaker   : Luís Rodrigues
 * Available : Any
-* Length    : 30 minutes
+* Length    : 45 minutes
 * Language  : English
 
 Description
