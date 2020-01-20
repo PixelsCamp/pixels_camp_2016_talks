@@ -1,38 +1,33 @@
-* Replace all text within `{{ ... }}` (also removing the braces) with the proper information.
-* This file will be automatically parsed by our backoffice, all fields are mandatory unless stated otherwise.
-* Don't use any markup or emoji in titles. Try to avoid it in descriptions if you can.
-* When you submit your proposal, paste the contents of this file as the Pull Request's description.
-* Don't delete or rename this file, copy it.
 
-`--8<-- DO NOT FORGET TO DELETE THIS LINE AND EVERYTHING ABOVE IT BEFORE SUBMITTING YOUR PROPOSAL --8<--`
-
-{{ _Your Talk's Title_ (which should be short) }}
+From Monolith to Serverless on the Cloud
 =================================================
 
-* Speaker   : {{ **Your Name** (eg. John Doe) }}
-* Available : {{ **Your Availability** (first day, second day, third day) }}
-* Length    : {{ **Talk Length** (in 30 minute increments — only workshops can be longer than 60 minutes) }}
-* Language  : {{ **Talk Language** (English or Portuguese, whatever you're more comfortable with) }}
+* Speaker   : Vitor Paulino
+* Available : any day during afternoons
+* Length    : 50 minutes
+* Language  : English or Portuguese
 
 Description
 -----------
 
-{{ **Describe Your Talk Here** and provide enough detail to capture your potential audience's interest. This text will appear in the event's schedule, so don't make it too long. Around 500 characters should suffice, more is probably too much. }}
+The world is full of applications that are screaming for evolution... all of them want to go to the cloud, but they are stuck in the monolithic architecture from where they were born but the business is requesting even more for scalability, resilience, security and easy to operate solutions with a lower cust. Cloud deployments and cloud native solutions has been the solution for this and Azure, as a Cloud provider, has a lot of options that enables such requirements. Come and see in this presentation how to achieve such results transforming Monolith application to native cloud base solutions.   
 
 Speaker Bio
 -----------
 
-{{ **Briefly Describe Yourself Here** to your potential audience. Try to be concise. }}
+I’m a Software engineer with +10 years of experience designing, developing, testing and deploying backend distributed applications mainly on .NET and javascript technologies stacks to support a variety of different communication patterns and repository characteristics customized to the needs of the clients requirements and recently migrating monolith and On-Premises solutions to the cloud. The mindset that I put in place every time I face a new challenge always consider software development best practices such as SOLID principles, GoF design patterns and methodologies that enable good software quality. Always available to learn, adapt, help, coach and support the team, sharing knowledge an discuss solutions.
 
 Links
 -----
 
-* Blog: {{ https://whereiwrite.com — optional, delete line if not applicable }}
-* Company: {{ https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {{ https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
-* Photo: {{ https://example.com/me.jpg }} — a picture of yourself for the speakers page }}
+
+* Company: https://new.siemens.com/pt/en/company/jobs/jobs/lisbontechhub.html
+* GitHub: https://github.com/vpaulino
+* Photo: https://avatars3.githubusercontent.com/u/859157?s=460&v=4
 
 Extra Information
 -----------------
 
-{{ Add any relevant information for us to evaluate your proposal, such as a longer description of your talk or links to previous talks you gave (if any). }}
+This presentation was already presented in the Azure Wednesdays meetup last 18 of December. During this presentation I will present what are the main drivers that can help to understand if your application is a go or no go to the cloud. Understand the path from monolith to microservices reaching sometimes serverless as a deployment option is important to reduce the load on systems, and reduce costs on your solution to support the demanding grown of your business worldwide.
+
+
