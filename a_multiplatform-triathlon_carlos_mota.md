@@ -3,7 +3,7 @@ A Multiplatform triathlon: Kotlin through Android, iOS and Web
 
 * Speaker   : Carlos Mota
 * Available : All days
-* Length    : 45 minutes
+* Length    : 30 minutes
 * Language  : English
 
 Description
