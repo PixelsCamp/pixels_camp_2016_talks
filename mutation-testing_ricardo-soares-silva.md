@@ -1,9 +1,9 @@
-_Let's kill some mutants_
+Let's kill some mutants
 =================================================
 
 * Speaker   : **Ricardo Soares Silva**
 * Available : **first day, second day**
-* Length    : **30 minutes**
+* Length    : **45 minutes + QA**
 * Language  : **English**
 
 Description
