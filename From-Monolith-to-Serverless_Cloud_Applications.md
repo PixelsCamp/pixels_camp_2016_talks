@@ -28,4 +28,6 @@ Extra Information
 -----------------
 
 
+The contents of this presentation will be very similiar to the one I have presented here: 
+https://www.meetup.com/en-AU/Azure-Wednesdays-Portugal/events/266033123/
 
