@@ -1,9 +1,9 @@
-_Enterprise Mobile Apps_
+Enterprise Mobile Apps
 =================================================
 
 * Speaker   : **Emanuel Canha**
 * Available : **first day, second day, third day**
-* Length    : **30 minutes**
+* Length    : **45 minutes**
 * Language  : **English**
 
 Description
@@ -16,7 +16,7 @@ It might seem like it’s just another app but there are significant differences
 Speaker Bio
 -----------
 
-Cofounder and Software engineer @ Beboc, a startup based in Manchester, UK. Currently managing the development of a market-leading platform which supports the smart meter rollout in the UK.
+Cofounder and Software Engineer @ Beboc, a startup based in Manchester, UK. Currently managing the development of a market-leading platform which supports the smart meter rollout in the UK.
 Emanuel has worked mostly as an Android developer for multiple organisations ranging from startups to large organisations such as the BBC and Rentalcars.
 
 Links
