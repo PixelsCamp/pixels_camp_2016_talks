@@ -9,14 +9,14 @@ Ditching Universal JavaScript over Edge Computing
 Description
 -----------
 
-**Universal JavaScript, also known as Isomorphic JavaScript, has become a best practice, now widely supported on most JavaScript frameworks. Even though we have started by building SPAs with SSR support, we soon evolved into a micro-web apps approach, only to realize that there is a high toll to be paid. As we move our web apps to the edge, I will build a case on why we are willing to ditch SSR.
+Universal JavaScript, also known as Isomorphic JavaScript, has become a best practice, now widely supported on most JavaScript frameworks. Even though we have started by building SPAs with SSR support, we soon evolved into a micro-web apps approach, only to realize that there is a high toll to be paid. As we move our web apps to the edge, I will build a case on why we are willing to ditch SSR.
 
-Keywords: SPA, SSR, Universal JavaScript, Edge Computing**
+Keywords: SPA, SSR, Universal JavaScript, Edge Computing
 
 Speaker Bio
 -----------
 
-**Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS. 20 years building tech products, teams, and processes. Nowadays, you can find him chasing some new product in a new industry, combining the wisdom of the crowd with machine learning.**
+Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS. 20 years building tech products, teams, and processes. Nowadays, you can find him chasing some new product in a new industry, combining the wisdom of the crowd with machine learning.
 
 Links
 -----
