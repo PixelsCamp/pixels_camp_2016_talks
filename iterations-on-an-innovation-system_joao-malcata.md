@@ -9,14 +9,14 @@ Iterations over an Innovation System
 Description
 -----------
 
-**The journey of a startup studio iterating over an innovation system to ignite the launch of six ventures. From idea generation to the business model in an industry agnostic setting. Lessons learned along the way are shared and expected to broaden perspectives leading to the improvement of innovation initiatives in general.
+The journey of a startup studio iterating over an innovation system to ignite the launch of six ventures. From idea generation to the business model in an industry agnostic setting. Lessons learned along the way are shared and expected to broaden perspectives leading to the improvement of innovation initiatives in general.
 
-Keywords: Entrepreneurship, Innovation, Processes**
+Keywords: Entrepreneurship, Innovation, Processes
 
 Speaker Bio
 -----------
 
-**Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS. 20 years building tech products, teams, and processes. Nowadays, you can find him chasing some new product in a new industry, combining the wisdom of the crowd with machine learning.**
+Dad, software engineer, entrepreneur, telco, web, cybersecurity and OSS. 20 years building tech products, teams, and processes. Nowadays, you can find him chasing some new product in a new industry, combining the wisdom of the crowd with machine learning.
 
 Links
 -----
