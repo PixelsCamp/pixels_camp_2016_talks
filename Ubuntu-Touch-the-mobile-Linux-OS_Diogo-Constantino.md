@@ -3,19 +3,21 @@ Ubuntu Touch, the mobile Linux OS
 
 * Speaker   : **Diogo Constantino**
 * Available : **second day, third day**
-* Length    : **30**
+* Length    : **45**
 * Language  : **Portuguese**
 
 Description
 -----------
 
-Initially created by Canonical, with the aim to offer a revolutionary
-convergence experience combining the best of the mobile user experience and a
-proper GNU/Linux and Free Software, being capable to provide differentiated but
-consistent and friendly experiences to the same users, using the same device and
-the same exact software with the same source code, but then taken over by the
-UBports Community, Ubuntu Touch is the main hope for real GNU/Linux and privacy
-on the mobile arena, and I will let you know why and how.
+Ubuntu Touch was initially created by Canonical, with the aim to offer a revolutionary
+convergence experience, therefore combining the best of the mobile and desktop user
+experience from Ubuntu Linux.
+Ubuntu Touch is capable to provide an adaptable but consistent and friendly experiences
+to the users, using the same device and the same exact software based on the same source
+code.
+At the moment Ubuntu Touch is developed and maintained by the UBports Community, and is
+the main hope for real GNU/Linux and privacy on the mobile arena, on this I will let you
+know why and how you should join our revolution.
 
 Speaker Bio
 -----------
