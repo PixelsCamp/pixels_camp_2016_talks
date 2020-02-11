@@ -33,8 +33,6 @@ Speaker Bio
 
 **Tiago Sousa**
 
-![Tiago Sousa](https://avatars3.githubusercontent.com/u/389917?v=4&s=460)
-
 I am passionate technologist who transforms ideas into working code.
 
 After more than seven years building and scaling the Talkdesk underlying platform
