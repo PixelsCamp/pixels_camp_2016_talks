@@ -1,7 +1,7 @@
 Higher Kinds of Testing
 =================================================
 
-* Speaker   : [Tiago Sousa](https://pixels.camp/tjsousa)
+* Speaker   : Tiago Sousa
 * Length    : 45min + 15min QA
 * Language  : English
 
@@ -32,6 +32,8 @@ Speaker Bio
 -----------
 
 **Tiago Sousa**
+
+![Tiago Sousa](https://avatars3.githubusercontent.com/u/389917?v=4&s=460)
 
 I am passionate technologist who transforms ideas into working code.
 
