@@ -2,13 +2,8 @@ Boxing Apples: packaging for Darwin
 =================================================
 
 * Speaker   : [Rodrigo Gonçalves](https://pixels.camp/pragmapilot)
-<<<<<<< HEAD
 * Available : **27 March in the afternoon** 
 * Length    :  **30m**
-=======
-* Available : **26 or 27 March in the afternoon** 
-* Length    :  **60m**
->>>>>>> 19732024f9d21e0e65b549b8167b22385224f4b1
 * Language  : **English** 
 
 Description
