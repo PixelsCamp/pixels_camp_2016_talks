@@ -2,7 +2,7 @@ GraalVM and Microservices: The Last Crusade
 =================================================
 
 * Speaker   : Roberto Cortez
-* Available : Third Day (28/03)
+* Available : All
 * Length    : 60 minutes
 * Language  : English
 
